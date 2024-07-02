@@ -1,6 +1,6 @@
 .navbar{
   justify-content: space-between;
-  padding:0;
+  padding:20px 0px;
   display: flex;
   align-items: center;
 }
